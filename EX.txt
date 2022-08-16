@@ -1,0 +1,33 @@
+Questions:
+[Due date - 22nd August]
+
+1. Sum of first n numbers(n>100000)
+
+2. Sum of n numbers(rand()) 
+
+3. Addition of 2 integer arrays
+
+4. Identify the maximum element in a list of thousand numbers
+
+5. Identify the minimum value in a list of 10,000 numbers
+
+6. Perform Matrix Vector Multiplication
+
+7. Write multiple programs to illustrate ||ism in nested for, barrier and nowait
+
+8. Sorting a list of thousand numbers
+
+Format:
+Aim
+Algorithm
+Program
+Test/Sample data
+Graph
+Result
+
+Note:
+For Graph:
+x-# of threads
+y-execution time
+
+10 diff thread values
